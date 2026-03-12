@@ -1,21 +1,9 @@
-# limits-before-scale
+# Limits Before Scale
 
-Intelligent systems collapse when they scale without limits.
+Limits Before Scale is a design principle for complex systems: scale amplifies structure, therefore limits must be defined before scaling.
 
-## Premise
-Scale amplifies structure.
-Without limits, intelligence degrades into noise.
+This repository explores a simple idea:
 
-## Problem
-Modern intelligent systems are optimized for growth before coherence.
+Intelligent systems remain stable only when clear structural limits are defined before scale.
 
-## Position
-This repository documents a design principle.
-Not a framework. Not a product. Not code.
-
-## Why this matters
-Limits are not constraints.
-They are preconditions for intelligence.
-
-## Status
-Research phase.
+When systems scale without limits, complexity increases faster than control mechanisms, leading to instability, noise, and eventual collapse.
