@@ -19,3 +19,7 @@ This repository is organized into the following conceptual components:
 A short conceptual paper describing the Limits Before Scale principle is available here:
 
 paper/Limits-Before-Scale.md
+
+## Concept Diagram
+
+See MODEL_DIAGRAM.md
