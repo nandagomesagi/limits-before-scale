@@ -14,3 +14,8 @@ This repository is organized into the following conceptual components:
 - APPLICATIONS.md → Where the principle applies
 - LIMIT_TYPES.md → Different categories of limits in complex systems
 
+## Paper
+
+A short conceptual paper describing the Limits Before Scale principle is available here:
+
+paper/Limits-Before-Scale.md
