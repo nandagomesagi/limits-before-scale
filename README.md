@@ -62,8 +62,10 @@ This repository contains the public research layer of **NANDA GOMES AI®**.
 ### Repository Governance
 
 - [Notice](./NOTICE.md)
+- [Security](./SECURITY.md)
 - [License](./LICENSE)
 - [Contributing](./CONTRIBUTING.md)
+
 
 ## Core Rule
 
