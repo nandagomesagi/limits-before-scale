@@ -23,3 +23,13 @@ paper/Limits-Before-Scale.md
 ## Concept Diagram
 
 See MODEL_DIAGRAM.md
+
+## Architecture Before Amplification
+
+This repository began with the principle **Limits Before Scale** and now expands into **Architecture Before Amplification**: a public research layer on AI, cognitive architecture, governance, and amplification risk.
+
+AI does not amplify everyone equally.  
+It amplifies the architecture it finds.
+
+Without architecture, AI amplifies noise.  
+With architecture, AI amplifies cognition.
