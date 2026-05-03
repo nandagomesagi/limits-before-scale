@@ -33,3 +33,24 @@ It amplifies the architecture it finds.
 
 Without architecture, AI amplifies noise.  
 With architecture, AI amplifies cognition.
+
+## Repository Index
+
+This repository contains the public research layer of **NANDA GOMES AI®**.
+
+### Core Files
+
+- [Manifesto](MANIFESTO.md)
+- [Principles](PRINCIPLES.md)
+- [Architecture Before Amplification](ARCHITECTURE-BEFORE-AMPLIFICATION.md)
+- [Individual Cognitive Architecture](INDIVIDUAL-COGNITIVE-ARCHITECTURE.md)
+- [AI as Cognitive Amplification](AI-COGNITIVE-AMPLIFICATION.md)
+- [Visual Research](VISUAL-RESEARCH.md)
+- [Roadmap](ROADMAP.md)
+- [Notice](NOTICE.md)
+- [Copyright](COPYRIGHT.md)
+
+## Core Rule
+
+Public thesis.  
+Private mechanism.
