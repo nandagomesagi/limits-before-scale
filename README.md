@@ -38,9 +38,32 @@ With architecture, AI amplifies cognition.
 
 This repository contains the public research layer of **NANDA GOMES AI®**.
 
-### Core Files
+### Core Thesis
 
-- 
+- [Architecture Before Amplification](./ARCHITECTURE-BEFORE-AMPLIFICATION.md)
+- [AI as Cognitive Amplification](./AI-COGNITIVE-AMPLIFICATION.md)
+- [Individual Cognitive Architecture](./INDIVIDUAL-COGNITIVE-ARCHITECTURE.md)
+
+### Framework
+
+- [Model](./MODEL.md)
+- [Model Diagram](./MODEL_DIAGRAM.md)
+- [Definitions](./DEFINITIONS.md)
+- [Limit Types](./LIMIT_TYPES.md)
+- [Collapse Mechanism](./COLLAPSE_MECHANISM.md)
+- [Applications](./APPLICATIONS.md)
+
+### Research and Roadmap
+
+- [Visual Research](./VISUAL-RESEARCH.md)
+- [Roadmap](./ROADMAP.md)
+- [Citation](./CITATION.md)
+
+### Repository Governance
+
+- [Notice](./NOTICE.md)
+- [License](./LICENSE)
+- [Contributing](./CONTRIBUTING.md)
 
 ## Core Rule
 
