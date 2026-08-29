@@ -1,12 +1,12 @@
-# Roadmap
+# Public Research Roadmap
 
-This roadmap documents the public development path of **NANDA GOMES AI®** research.
+This roadmap documents only the public research direction of NANDA GOMES AI®.
 
-It separates public thesis from private product mechanics.
+It deliberately excludes proprietary implementation details, product mechanics, internal evaluation systems, datasets, prompts, workflows, customer logic, and commercial execution.
 
-## Phase 1 — Public Thesis
+## Phase 1 — Establish the public thesis
 
-Public layer:
+Public research areas include:
 
 - Limits Before Scale
 - Systems Before Scale
@@ -14,65 +14,46 @@ Public layer:
 - Architecture Before Amplification
 - Individual Cognitive Architecture
 - AI as Cognitive Amplification
-- Visual research
+- visual and conceptual research
 
 Goal:
 
-> Establish the public authorship layer.
+> Establish a clear, citable public authorship layer.
 
-## Phase 2 — Private Method
+## Phase 2 — Expand the research model
 
-Private layer:
-
-- guided intake
-- noise mapping
-- cognitive architecture mapping
-- AI Operating Profile
-- internal prompts
-- scoring logic
-- report structure
-- selected pilots
+Public work may extend the definitions, conceptual relationships, diagrams, evidence base, and cross-domain applications of the core principles.
 
 Goal:
 
-> Build and validate the proprietary mechanism.
+> Improve conceptual precision without publishing proprietary implementation mechanics.
 
-## Phase 3 — Product Layer
+## Phase 3 — Validate through applied work
 
-Potential product layer:
+Applied development, experiments, implementation mechanisms, and productization may occur privately.
 
-- Cognitive Architecture Map™
-- AI Operating Profile™
-- Pre-Prompt Architecture™
-- Noise Audit™
-- Adaptive Cognitive AI™
+Only selected findings that strengthen the public thesis may be published here after review for intellectual-property exposure.
 
 Goal:
 
-> Convert the method into structured deliverables.
+> Preserve the distinction between public research and private implementation.
 
-## Phase 4 — Startup Layer
+## Publication rule
 
-Future platform layer:
+Before new material is added to this repository, ask:
 
-- human-AI adaptation layer
-- individual cognitive architecture system
-- applied cognitive architecture platform
-- governance-oriented AI interface
+> Does this establish authorship, or does it reveal the mechanism?
 
-Goal:
+If it reveals a mechanism that creates operational or commercial advantage, it belongs in the private layer.
 
-> Build infrastructure for AI amplification with architecture.
-
-## Core Rule
-
-Public thesis.  
-Private mechanism.
-
-## Central Thesis
+## Central thesis
 
 AI does not amplify everyone equally.  
 It amplifies the architecture it finds.
 
 Without architecture, AI amplifies noise.  
 With architecture, AI amplifies cognition.
+
+## Core rule
+
+**Public thesis. Private mechanism.**
