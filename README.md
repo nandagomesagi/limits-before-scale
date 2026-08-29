@@ -10,7 +10,7 @@ When systems scale faster than their limits and controls, instability, noise, de
 
 This repository is the **public research and authorship layer** of NANDA GOMES AI®.
 
-It publishes selected thesis, terminology, conceptual models, diagrams, and research direction. It is not the repository for proprietary product mechanics or commercial implementation.
+It publishes selected thesis, terminology, conceptual models, diagrams, research position, and applied public work. It is not the repository for proprietary product mechanics or commercial implementation.
 
 ## Core thesis
 
@@ -28,6 +28,12 @@ Without architecture, AI can amplify noise, dependency, generic language, weak d
 
 With architecture, AI can amplify cognition, structure, language, decision, execution, and human capability.
 
+## Research status
+
+Limits Before Scale is presented as a **conceptual research framework, not a claimed scientific law**. The repository distinguishes propositions, hypotheses, observed evidence, derived results, assumptions, and unknowns.
+
+See [Research Position](./RESEARCH_POSITION.md).
+
 ## Repository index
 
 ### Core thesis
@@ -38,6 +44,7 @@ With architecture, AI can amplify cognition, structure, language, decision, exec
 
 ### Framework
 
+- [Research Position](./RESEARCH_POSITION.md)
 - [Model](./MODEL.md)
 - [Model Diagram](./MODEL_DIAGRAM.md)
 - [Definitions](./DEFINITIONS.md)
@@ -45,11 +52,16 @@ With architecture, AI can amplify cognition, structure, language, decision, exec
 - [Collapse Mechanism](./COLLAPSE_MECHANISM.md)
 - [Applications](./APPLICATIONS.md)
 
+### Applied public work
+
+- [Applied Work](./APPLIED-WORK.md) — selected systems that test the public thesis without publishing proprietary implementation mechanics
+
 ### Research record
 
 - [Visual Research](./VISUAL-RESEARCH.md)
 - [Roadmap](./ROADMAP.md)
 - [Citation](./CITATION.md)
+- [`CITATION.cff`](./CITATION.cff) — machine-readable citation metadata for GitHub and research tooling
 
 ### Governance and intellectual property
 
