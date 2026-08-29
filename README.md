@@ -1,44 +1,36 @@
 # Limits Before Scale
 
-Limits Before Scale is a design principle for complex systems: scale amplifies structure, therefore limits must be defined before scaling.
+**Limits Before Scale** is a design principle for complex systems: scale amplifies structure, therefore limits must be defined before scaling.
 
-Intelligent systems remain stable only when clear structural limits are defined before scale.
+Intelligent systems remain stable only when structural limits and control mechanisms remain adequate as complexity increases.
 
-When systems scale without limits, complexity increases faster than control mechanisms, leading to instability, noise, and eventual ## Repository Structure
+When systems scale faster than their limits and controls, instability, noise, dependency, and failure risk increase.
 
-This repository is organized into the following conceptual components:
+## Repository purpose
 
-- DEFINITIONS.md → Core terminology used in the model
-- MODEL.md → The Limits Before Scale conceptual model
-- COLLAPSE_MECHANISM.md → How systems degrade when scaling without limits
-- APPLICATIONS.md → Where the principle applies
-- LIMIT_TYPES.md → Different categories of limits in complex systems
+This repository is the **public research and authorship layer** of NANDA GOMES AI®.
 
-## Paper
+It publishes selected thesis, terminology, conceptual models, diagrams, and research direction. It is not the repository for proprietary product mechanics or commercial implementation.
 
-A short conceptual paper describing the Limits Before Scale principle is available here:
+## Core thesis
 
-paper/Limits-Before-Scale.md
+### Limits Before Scale
 
-## Concept Diagram
+Scale amplifies the structure already present in a system. Limits, controls, and architecture therefore need to be defined before scale is treated as sustainable.
 
-See MODEL_DIAGRAM.md
+### Architecture Before Amplification
 
-## Architecture Before Amplification
+This research extends into AI through a second principle:
 
-This repository began with the principle **Limits Before Scale** and now expands into **Architecture Before Amplification**: a public research layer on AI, cognitive architecture, governance, and amplification risk.
+> AI does not amplify everyone equally. It amplifies the architecture it finds.
 
-AI does not amplify everyone equally.  
-It amplifies the architecture it finds.
+Without architecture, AI can amplify noise, dependency, generic language, weak decision loops, and passive cognition.
 
-Without architecture, AI amplifies noise.  
-With architecture, AI amplifies cognition.
+With architecture, AI can amplify cognition, structure, language, decision, execution, and human capability.
 
-## Repository Index
+## Repository index
 
-This repository contains the public research layer of **NANDA GOMES AI®**.
-
-### Core Thesis
+### Core thesis
 
 - [Architecture Before Amplification](./ARCHITECTURE-BEFORE-AMPLIFICATION.md)
 - [AI as Cognitive Amplification](./AI-COGNITIVE-AMPLIFICATION.md)
@@ -53,21 +45,34 @@ This repository contains the public research layer of **NANDA GOMES AI®**.
 - [Collapse Mechanism](./COLLAPSE_MECHANISM.md)
 - [Applications](./APPLICATIONS.md)
 
-### Research and Roadmap
+### Research record
 
 - [Visual Research](./VISUAL-RESEARCH.md)
 - [Roadmap](./ROADMAP.md)
 - [Citation](./CITATION.md)
 
-### Repository Governance
+### Governance and intellectual property
 
 - [Notice](./NOTICE.md)
+- [IP Policy](./IP_POLICY.md)
 - [Security](./SECURITY.md)
 - [License](./LICENSE)
 - [Contributing](./CONTRIBUTING.md)
 
+## Paper
 
-## Core Rule
+A short conceptual paper describing the Limits Before Scale principle is available at:
 
-Public thesis.  
-Private mechanism.
+`paper/Limits-Before-Scale.md`
+
+## Public / private boundary
+
+The public repository establishes authorship and exposes the conceptual research layer.
+
+The proprietary implementation layer remains private and may include product mechanics, internal evaluation systems, datasets, prompts, workflows, customer logic, and commercial execution.
+
+Earlier revisions of this repository were released under the MIT License. Rights already granted for those historical MIT revisions remain governed by their original MIT terms. New original material is governed by the current `LICENSE` file.
+
+## Core rule
+
+**Public thesis. Private mechanism.**
