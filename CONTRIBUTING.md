@@ -1,11 +1,19 @@
 # Contributing
 
-This repository explores the Limits Before Scale principle.
+This repository is maintained primarily as a public research and authorship record.
 
-Contributions may include:
+External pull requests containing substantive text, diagrams, code, product mechanics, or implementation material are not accepted by default.
 
-- conceptual clarification
-- examples of system collapse
-- additional applications
+You may open an issue to report:
 
-All contributions should focus on structural analysis of complex systems.
+- citation errors;
+- broken references;
+- factual corrections;
+- typographical errors;
+- clearly identified prior art or relevant public research.
+
+Do not submit proprietary, confidential, customer, or third-party restricted material.
+
+Any substantive contribution requires a separate written agreement before incorporation.
+
+See `LICENSE`, `NOTICE.md`, and `IP_POLICY.md` for the current intellectual-property boundary.
