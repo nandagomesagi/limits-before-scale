@@ -1,9 +1,26 @@
 # Citation
 
-If you reference this concept, please cite:
+If you reference this research, please cite:
 
-Limits Before Scale (2026)
-Nanda Gomes
-https://github.com/nandagomesagi/limits-before-scale
+**Gomes, Nanda. _Limits Before Scale_. 2026.**
 
-Concept: structural limits must be defined before scaling complex systems.
+Repository:
+
+`https://github.com/nandagomesagi/limits-before-scale`
+
+Core concept:
+
+> Structural limits, controls, and architecture should be examined before scale or amplification is treated as sustainable.
+
+For machine-readable citation metadata, use [`CITATION.cff`](./CITATION.cff). GitHub-compatible research tooling can read that file directly.
+
+## Related public research terms
+
+When relevant, citations may also identify the specific public concept being referenced:
+
+- Limits Before Scale
+- Architecture Before Amplification
+- Individual Cognitive Architecture
+- AI as Cognitive Amplification
+
+The repository documents a conceptual research framework and should not be cited as establishing a universal scientific law. See [`RESEARCH_POSITION.md`](./RESEARCH_POSITION.md) for the epistemic position and scope.
