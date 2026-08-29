@@ -1,8 +1,8 @@
 # Notice
 
-This repository contains the public research layer of **NANDA GOMES AI®**.
+This repository contains the public research and authorship layer of **NANDA GOMES AI®**.
 
-It documents public thesis, terminology, principles, and research direction related to:
+It documents selected public thesis, terminology, principles, conceptual models, diagrams, and research direction related to:
 
 - Limits Before Scale
 - Systems Before Scale
@@ -11,26 +11,20 @@ It documents public thesis, terminology, principles, and research direction rela
 - Individual Cognitive Architecture
 - AI as Cognitive Amplification
 
-## Public Thesis. Private Mechanism.
+## Public thesis. Private mechanism.
 
-This repository does not include proprietary product mechanics.
+This repository is intentionally public so that the development record and authorship can be inspected.
 
-The following materials are not included:
+It is **not** the source repository for the proprietary implementation layer. Product mechanics, internal evaluation systems, private datasets, prompts, workflows, customer logic, and commercial execution remain outside this repository.
 
-- proprietary intake systems
-- scoring logic
-- client mapping logic
-- internal AI prompts
-- report templates
-- pilot data
-- product workflows
-- commercial implementation details
+## Licensing boundary
 
-## Intellectual Property
+Earlier revisions were released under the MIT License. Permissions already granted for material in those historical MIT revisions remain valid under those MIT terms and are not retroactively revoked.
 
-All original texts, diagrams, visual systems, frameworks, and research structures in this repository are part of the public authorship layer of **NANDA GOMES AI®**.
+Original material first added after the licensing transition is governed by the current `LICENSE` file and is not offered under MIT unless expressly stated otherwise.
 
-No commercial use, reproduction, redistribution, derivative work, or product implementation is authorized without prior written permission.
+## Brands
 
-Public thesis.  
-Private mechanism.
+Public access does not grant permission to use project, product, or brand identifiers as branding for another product or service. See `LICENSE` and `IP_POLICY.md`.
+
+**Public thesis. Private mechanism.**
